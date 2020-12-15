@@ -1,0 +1,12 @@
+C:\Users\user\source\repos\Test_Assignment_Internship\Test_Assignment_Internship\bin\Debug\Test_Assignment_Internship.exe.config
+C:\Users\user\source\repos\Test_Assignment_Internship\Test_Assignment_Internship\bin\Debug\Test_Assignment_Internship.exe
+C:\Users\user\source\repos\Test_Assignment_Internship\Test_Assignment_Internship\bin\Debug\Test_Assignment_Internship.pdb
+C:\Users\user\source\repos\Test_Assignment_Internship\Test_Assignment_Internship\obj\Debug\Test_Assignment_Internship.csprojAssemblyReference.cache
+C:\Users\user\source\repos\Test_Assignment_Internship\Test_Assignment_Internship\obj\Debug\Test_Assignment_Internship.Form1.resources
+C:\Users\user\source\repos\Test_Assignment_Internship\Test_Assignment_Internship\obj\Debug\Test_Assignment_Internship.Properties.Resources.resources
+C:\Users\user\source\repos\Test_Assignment_Internship\Test_Assignment_Internship\obj\Debug\Test_Assignment_Internship.csproj.GenerateResource.cache
+C:\Users\user\source\repos\Test_Assignment_Internship\Test_Assignment_Internship\obj\Debug\Test_Assignment_Internship.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Test_Assignment_Internship\Test_Assignment_Internship\obj\Debug\Test_Assignment_Internship.exe
+C:\Users\user\source\repos\Test_Assignment_Internship\Test_Assignment_Internship\obj\Debug\Test_Assignment_Internship.pdb
+C:\Users\user\source\repos\Test_Assignment_Internship\Test_Assignment_Internship\obj\Debug\Test_Assignment_Internship.Form2.resources
+C:\Users\user\source\repos\Test_Assignment_Internship\Test_Assignment_Internship\obj\Debug\Test_Assignment_Internship.Form3.resources
